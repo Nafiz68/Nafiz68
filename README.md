@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=80&size=35&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Nafiz+Khan.;CSE+Undergraduate+at+BRAC+University.;ML%2C+AI%2C+MERN+Stack+%26+Embedded+Systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=80&size=35&lines=CSE+Undergrad+at+BRAC+University+%7C+Software+Engineer+%7C+Python+Instructor+%7C+Research+%7C+Artificial+Intelligence+enthusiast" alt="Typing SVG" />
+
 
 </h1>
 
@@ -59,7 +60,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
 ### 🌐 Laravel Stack
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
