@@ -31,7 +31,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -61,6 +60,13 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
+### 🌐 Laravel Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=flat-square&logo=composer&logoColor=black)
+
+---
 
 ## 🚀 I’m Open To Collaborate On:
 - 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
@@ -88,8 +94,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ---
 
 
-
-
 ## 🚀 Skills Progress
 
 <p align="center">
@@ -107,8 +111,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 </p>
 
 
-
-
 ---
 
 <p align="center">
@@ -118,7 +120,8 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
+
 </p>
 
 
