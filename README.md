@@ -12,17 +12,17 @@
 ## 👋 Hello, I’m **Nafiz Khan**
 
 🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
-🔍 Exploring Machine Learning, Data Science, AI & Embedded Systems  
+🔍 Exploring new frameworks for modern software development.
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
-🌱 Currently diving into the **MERN Stack** & **data science**
+🌱 I am currently enrolled in the Microsoft 365 Copilot program by Agent X, in collaboration with Microsoft Learn.
 
 ---
 
 ## 💼 About Me
 
-I explore the dynamic intersection of **software & hardware** through academic and personal projects — from **control systems** to **AI/ML predictive models**. My goal? To **innovate and solve problems** that truly matter.
+I’m an aspiring software engineer with a strong foundation in both software and hardware, gained through academic and hands-on project experience. From building control systems to experimenting with AI/ML applications, I focus on solving real-world problems through efficient, scalable, and innovative software solutions.
 
-I love collaborative work, am always learning, and believe in the magic of open source 🌐✨
+I’m driven by collaboration, continuous learning, and the impact of open-source innovation. My long-term goal is to contribute to high-impact products, shape scalable systems, and grow within forward-thinking tech environments. 🌐🚀
 
 ---
 
@@ -63,13 +63,15 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ## 🚀 I’m Open To Collaborate On:
 - 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
-- 📊 **Data Science Projects** — analytics, dashboards, visualizations  
-- 🧠 **Control System / Embedded Applications** — STM32/Arduino-based
+- 💻 Full-Stack Web Development — MERN stack, REST APIs, modern UI/UX
+- ⚙️ Software Engineering Projects — scalable systems, clean architecture, SDLC best practices
+- 🌐 Open-Source Contributions — impactful tools, community-driven initiatives 
+- 🧠 Control Systems / Embedded Applications — STM32, Arduino, and Raspberry Pi-based solutions
 
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanni-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tahsin-tanni-120156215/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafiz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafiz-khan-34b7a6309)  
 📧 Email: nafizk368@gmail.com
 
 ---
@@ -90,13 +92,17 @@ I love collaborative work, am always learning, and believe in the magic of open 
 ## 🚀 Skills Progress
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-80%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
+  <img src="https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
+  <img src="https://img.shields.io/badge/MERN_Stack-70%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded-60%25-orange?style=for-the-badge" alt="Embedded Skill" />
+  <img src="https://img.shields.io/badge/Embedded_Systems-65%25-orange?style=for-the-badge" alt="Embedded Skill" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Nafiz68-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </p>
 
 
@@ -105,7 +111,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz68&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
