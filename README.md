@@ -57,7 +57,7 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 🌐 Laravel Stack
+### 🌐 Laravel
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -101,10 +101,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
   <img src="https://img.shields.io/badge/MERN_Stack-70%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Embedded_Systems-65%25-orange?style=for-the-badge" alt="Embedded Skill" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Nafiz68-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </p>
 
 
