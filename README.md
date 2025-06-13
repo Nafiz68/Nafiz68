@@ -1,13 +1,7 @@
-<h1 align="center">
-  <p align="center">
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&height=80&size=35&lines=CSE+Undergrad+at+BRAC+University+%7C+Software+Engineer+%7C+Python+Instructor+%7C+Research+%7C+Artificial+Intelligence+enthusiast" alt="Typing SVG" />
 </p>
-
-
-</h1>
-
-
-
 
 
 
