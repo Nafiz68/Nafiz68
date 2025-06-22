@@ -104,13 +104,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 </p>
 
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nafiz68&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
