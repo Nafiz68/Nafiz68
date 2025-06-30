@@ -37,7 +37,6 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 
 ### 🤖 AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-5F5F5F?style=flat-square)
 
 ### 📊 Data Science
