@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=2000&height=200&size=50&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Nafiz+Khan.;CSE+Undergraduate+at+BRAC+University.;Software+engineer%2C+Artificial+Intelligence+enthusiast%2C+Python+Instructor." alt="Typing SVG" /> </p>
----
 
 ## 👋 Hello, I’m **Nafiz Khan**
 
@@ -8,7 +7,7 @@
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
 🌱 I am currently enrolled in the Microsoft 365 Copilot program by Agent X, in collaboration with Microsoft Learn.
 
----
+
 
 ## 💼 About Me
 
@@ -16,7 +15,6 @@ I’m an aspiring software engineer with a strong foundation in both software an
 
 I’m driven by collaboration, continuous learning, and the impact of open-source innovation. My long-term goal is to contribute to high-impact products, shape scalable systems, and grow within forward-thinking tech environments. 🌐🚀
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -55,7 +53,7 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=flat-square&logo=composer&logoColor=black)
 
----
+
 
 ## 🚀 I’m Open To Collaborate On:
 - 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
@@ -64,13 +62,11 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 - 🌐 Open-Source Contributions — impactful tools, community-driven initiatives 
 - 🧠 Control Systems / Embedded Applications — STM32, Arduino, and Raspberry Pi-based solutions
 
----
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafiz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafiz-khan-34b7a6309)  
 📧 Email: nafizk368@gmail.com
 
----
 
 ## 📈 GitHub Stats & Skills Level-Up
 
@@ -80,7 +76,7 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
   <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
 
 
 ## 🚀 Skills Progress
