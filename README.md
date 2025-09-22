@@ -1,8 +1,11 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=2000&height=200&size=50&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Nafiz+Khan.;CSE+Undergraduate+at+BRAC+University.;Software+engineer%2C+Artificial+Intelligence+enthusiast%2C+Python+Instructor." alt="Typing SVG" />
+  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nafiz68&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
 
 
 
