@@ -71,9 +71,9 @@ I’m driven by collaboration, continuous learning, and the impact of open-sourc
 ## 📈 GitHub Stats & Skills Level-Up
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nafiz68&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Nafiz68&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
