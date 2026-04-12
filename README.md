@@ -10,24 +10,40 @@
 
 ---
 
-## 👋 Hello, I'm **Nafiz Khan**
+## 👋 Hey, I'm **Nafiz Khan**
 
-🎓 CSE Graduate at **BRAC University**, Bangladesh  
-💼 Currently working in **Softvence** as an **Automation Specialist**  
-🔍 Exploring new frameworks for modern software development  
-🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
+🎓 CSE Graduate @ **BRAC University**  
+💼 **Automation Specialist** at **Softvence**  
+🚀 Building software, automation systems & AI-powered solutions  
+🧠 Focused on scalable systems, modern frameworks & real-world impact  
 
-⚡ Fun fact: I build things from microcontrollers all the way up to full-stack web apps  
+⚡ *Fun fact:* I work across full-stack apps, automation, and embedded systems 🤖🌐  
 
 ---
 
 ## 💼 About Me
 
-I'm an aspiring software engineer with a strong foundation in both software and hardware, gained through academic and hands-on project experience. From building control systems to experimenting with AI/ML applications, I focus on solving real-world problems through efficient, scalable, and innovative software solutions.
+I’m a software engineer passionate about building **practical, real-world systems** across software, hardware, and automation.
 
-I'm driven by collaboration, continuous learning, and the impact of open-source innovation. My long-term goal is to contribute to high-impact products, shape scalable systems, and grow within forward-thinking tech environments. 🌐🚀
+I enjoy working on:
+- ⚙️ Automation & workflows  
+- 🤖 AI/ML applications  
+- 🌐 Full-stack web development  
+- 🔌 Embedded & IoT systems  
+
+I care about writing **clean, scalable, and efficient code** that solves real problems.
 
 ---
+
+### 🚀 What drives me
+- 🧩 Problem-solving  
+- 📈 Continuous learning  
+- 🌍 Building impactful systems  
+- 🤝 Collaboration  
+---
+
+### 🎯 Goal
+To grow as a **high-impact software engineer**, contributing to scalable systems, intelligent automation, and innovative tech products that make a difference.
 
 ## 🛠️ Tech Stack
 
@@ -74,13 +90,16 @@ I'm driven by collaboration, continuous learning, and the impact of open-source 
 
 ---
 
-## 🚀 I'm Open To Collaborate On
+## 🚀 Open to Collaborate On
 
-- 🤖 **AI/ML Projects** — classification, prediction, deep learning  
-- 💻 **Full-Stack Web Development** — MERN stack, REST APIs, modern UI/UX  
-- ⚙️ **Software Engineering** — scalable systems, clean architecture, SDLC best practices  
-- 🌐 **Open-Source Contributions** — impactful tools, community-driven initiatives  
-- 🧠 **Embedded Applications** — STM32, Arduino, and Raspberry Pi-based solutions  
+I’m always excited to work on meaningful and impactful tech projects, especially in:
+
+- 🤖 **AI / Machine Learning** — classification, prediction systems, deep learning models, intelligent applications  
+- ⚙️ **Automation Systems** — workflow automation, bots, task scheduling, process optimization (n8n, scripts, RPA-style solutions)  
+- 💻 **Full-Stack Development** — MERN stack, REST APIs, scalable backend systems, modern UI/UX  
+- ⚙️ **Software Engineering** — clean architecture, scalable systems, SDLC best practices  
+- 🌐 **Open Source** — community-driven tools, meaningful contributions, collaborative innovation  
+- 🧠 **Embedded & IoT Systems** — STM32, Arduino, Raspberry Pi, real-world hardware integration  
 
 ---
 
