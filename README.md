@@ -1,101 +1,159 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=2000&height=200&size=50&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Nafiz+Khan.;CSE+Undergraduate+at+BRAC+University.;Software+engineer%2C+Artificial+Intelligence+enthusiast%2C+Python+Instructor." alt="Typing SVG" /> </p>
+<div align="center">
 
-## 👋 Hello, I’m **Nafiz Khan**
+<!-- CAPSULE WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=200&section=header&text=Nafiz%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Instructor&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=CSE+Undergraduate+%40+BRAC+University+%F0%9F%8E%93;Building+real-world+AI+%26+software+solutions+%F0%9F%9A%80;MERN+Stack+%7C+Embedded+Systems+%7C+Machine+Learning;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 👋 Hello, I'm **Nafiz Khan**
 
 🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
-🔍 Exploring new frameworks for modern software development.
+🔍 Exploring new frameworks for modern software development  
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
-🌱 I am currently enrolled in the Microsoft 365 Copilot program by Agent X, in collaboration with Microsoft Learn.
+🌱 Currently enrolled in the **Microsoft 365 Copilot** program by Agent X, in collaboration with Microsoft Learn  
+⚡ Fun fact: I build things from microcontrollers all the way up to full-stack web apps  
 
-
+---
 
 ## 💼 About Me
 
-I’m an aspiring software engineer with a strong foundation in both software and hardware, gained through academic and hands-on project experience. From building control systems to experimenting with AI/ML applications, I focus on solving real-world problems through efficient, scalable, and innovative software solutions.
+I'm an aspiring software engineer with a strong foundation in both software and hardware, gained through academic and hands-on project experience. From building control systems to experimenting with AI/ML applications, I focus on solving real-world problems through efficient, scalable, and innovative software solutions.
 
-I’m driven by collaboration, continuous learning, and the impact of open-source innovation. My long-term goal is to contribute to high-impact products, shape scalable systems, and grow within forward-thinking tech environments. 🌐🚀
+I'm driven by collaboration, continuous learning, and the impact of open-source innovation. My long-term goal is to contribute to high-impact products, shape scalable systems, and grow within forward-thinking tech environments. 🌐🚀
 
+---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-7D4698?style=flat-square&logo=verilog&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+<div align="center">
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-7D4698?style=for-the-badge&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 
 ### 🤖 AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-5F5F5F?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-5F5F5F?style=for-the-badge)
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-004B87?style=flat-square)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧩 Embedded Systems
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6A1B9A?style=flat-square)
+### 🧩 Embedded & Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 🌐 MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🌐 Laravel
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=flat-square&logo=composer&logoColor=black)
+</div>
 
+---
 
+## 🚀 I'm Open To Collaborate On
 
-## 🚀 I’m Open To Collaborate On:
-- 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
-- 💻 Full-Stack Web Development — MERN stack, REST APIs, modern UI/UX
-- ⚙️ Software Engineering Projects — scalable systems, clean architecture, SDLC best practices
-- 🌐 Open-Source Contributions — impactful tools, community-driven initiatives 
-- 🧠 Control Systems / Embedded Applications — STM32, Arduino, and Raspberry Pi-based solutions
+- 🤖 **AI/ML Projects** — classification, prediction, deep learning  
+- 💻 **Full-Stack Web Development** — MERN stack, REST APIs, modern UI/UX  
+- ⚙️ **Software Engineering** — scalable systems, clean architecture, SDLC best practices  
+- 🌐 **Open-Source Contributions** — impactful tools, community-driven initiatives  
+- 🧠 **Embedded Applications** — STM32, Arduino, and Raspberry Pi-based solutions  
 
+---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafiz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nafiz-khan-34b7a6309)  
-📧 Email: nafizk368@gmail.com
+## 📈 GitHub Stats
 
+<div align="center">
 
-## 📈 GitHub Stats & Skills Level-Up
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Nafiz68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Nafiz68&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nafiz68&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<br/>
 
+<img src="https://streak-stats.demolab.com?user=Nafiz68&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00BFFF&ring=00BFFF&fire=FF6B35&currStreakLabel=00BFFF" alt="GitHub Streak" />
 
+</div>
 
+---
 
-## 🚀 Skills Progress
+## 📊 Contribution Graph
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-85%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN_Stack-70%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded_Systems-65%25-orange?style=for-the-badge" alt="Embedded Skill" />
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiz68&theme=tokyo-night&hide_border=true&area=true&color=00BFFF&line=00BFFF&point=ffffff&area_color=0a3d62" alt="Contribution Graph" />
+</div>
 
+---
 
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
+<div align="center">
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=Nafiz68&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
 
-</p>
+---
 
+## 🐍 Contribution Snake
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+> ⚠️ To enable the snake animation, create a GitHub Action in your profile repo. See [platane/snk](https://github.com/platane/snk) for the 5-minute setup guide.
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nafiz%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafiz-khan-34b7a6309)
+[![Email](https://img.shields.io/badge/Email-nafizk368%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafizk368@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nafiz68-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafiz68)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
+
+<!-- CAPSULE WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0a3d62,100:0d1117&height=120&section=footer" />
+
+</div>
