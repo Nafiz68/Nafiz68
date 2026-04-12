@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- CAPSULE WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=200&section=header&text=Nafiz%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Python%20Instructor&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=200&section=header&text=Nafiz%20Khan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Automation%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=CSE+Undergraduate+%40+BRAC+University+%F0%9F%8E%93;Building+real-world+AI+%26+software+solutions+%F0%9F%9A%80;MERN+Stack+%7C+Embedded+Systems+%7C+Machine+Learning;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=50&lines=CSE+Graduate+%40+BRAC+University+%F0%9F%8E%93;Automation+Specialist+at+Softvence+%F0%9F%92%BC;Building+real-world+AI+%26+software+solutions+%F0%9F%9A%80;MERN+Stack+%7C+Embedded+Systems+%7C+Machine+Learning;Open+to+collaborate+%F0%9F%A4%9D" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +12,11 @@
 
 ## 👋 Hello, I'm **Nafiz Khan**
 
-🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
+🎓 CSE Graduate at **BRAC University**, Bangladesh  
+💼 Currently working in Softvence as an Automation Specialist  
 🔍 Exploring new frameworks for modern software development  
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
-🌱 Currently enrolled in the **Microsoft 365 Copilot** program by Agent X, in collaboration with Microsoft Learn  
+
 ⚡ Fun fact: I build things from microcontrollers all the way up to full-stack web apps  
 
 ---
@@ -97,15 +98,25 @@ I'm driven by collaboration, continuous learning, and the impact of open-source 
 
 </div>
 
----
-
 ## 📊 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nafiz68&theme=tokyo-night&hide_border=true&area=true&color=00BFFF&line=00BFFF&point=ffffff&area_color=0a3d62" alt="Contribution Graph" />
 </div>
 
----
+
+<div align="center">
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Nafiz68&label=Profile+Views&color=00BFFF&style=for-the-badge" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 
@@ -115,27 +126,7 @@ I'm driven by collaboration, continuous learning, and the impact of open-source 
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nafiz68/Nafiz68/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
-> ⚠️ To enable the snake animation, create a GitHub Action in your profile repo. See [platane/snk](https://github.com/platane/snk) for the 5-minute setup guide.
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
 
 ## 📫 Let's Connect
 
@@ -145,15 +136,14 @@ I'm driven by collaboration, continuous learning, and the impact of open-source 
 [![Email](https://img.shields.io/badge/Email-nafizk368%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafizk368@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Nafiz68-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nafiz68)
 
-</div>
 
 ---
 
+## ✨ Thanks for Visiting!
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
-
-<!-- CAPSULE WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:0a3d62,100:0d1117&height=120&section=footer" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00BFFF&height=150&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontColor=ffffff&fontSize=30&fontAlignY=60&animation=fadeIn" />
 </div>
+
+
+
