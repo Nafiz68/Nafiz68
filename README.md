@@ -13,7 +13,7 @@
 ## 👋 Hello, I'm **Nafiz Khan**
 
 🎓 CSE Graduate at **BRAC University**, Bangladesh  
-💼 Currently working in Softvence as an Automation Specialist  
+💼 Currently working in **Softvence** as an **Automation Specialist**  
 🔍 Exploring new frameworks for modern software development  
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
 
