@@ -136,13 +136,6 @@ I’m always excited to work on meaningful and impactful tech projects, especial
 
 </div>
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy-kannan.vercel.app/?username=Nafiz68&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
-
 ---
 
 
