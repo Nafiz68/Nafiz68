@@ -13,7 +13,7 @@
 ## 👋 Hey, I'm **Nafiz Khan**
 
 🎓 CSE Graduate @ **BRAC University**  
-💼 **Automation Specialist** at **Softvence**  
+💼 **AI & Automation Specialist** at **Softvence**  
 🚀 Building software, automation systems & AI-powered solutions  
 🧠 Focused on scalable systems, modern frameworks & real-world impact  
 
